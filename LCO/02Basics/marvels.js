@@ -29,3 +29,7 @@ console.log(number)
 
 console.log(number.pop()) 
 console.log(number)
+
+//Middle
+number.splice(1,2,'SOMETHING') //position, no.of elements, thing you want to put 
+console.log(number)
